@@ -17,5 +17,7 @@ int main() {
 	cout << "diff" << endl;
 	cout << "diff --cached [file]" << endl;
 	cout << "reset" << endl;
+        cout << "git remote" << endl;
+   
 	return 0;
 }
