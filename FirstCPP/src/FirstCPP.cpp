@@ -15,5 +15,6 @@ int main() {
 	cout << "happiness" << endl;
 	cout << "safety" << endl;
 	cout << "diff" << endl;
+	cout << "diff --cached [file]" << endl;
 	return 0;
 }
