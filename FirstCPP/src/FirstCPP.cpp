@@ -13,6 +13,6 @@ int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	cout << "hello git ONCE" << endl;
 	cout << "happiness" << endl;
-	cout << "safty" << endl;
+	cout << "safety" << endl;
 	return 0;
 }
