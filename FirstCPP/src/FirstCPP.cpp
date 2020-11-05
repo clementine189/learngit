@@ -16,5 +16,6 @@ int main() {
 	cout << "safety" << endl;
 	cout << "diff" << endl;
 	cout << "diff --cached [file]" << endl;
+	cout << "reset" << endl;
 	return 0;
 }
