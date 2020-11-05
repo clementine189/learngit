@@ -12,7 +12,6 @@ using namespace std;
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	cout << "hello git ONCE" << endl;
-	cout << ""<< endl;
 
 	return 0;
 }
