@@ -15,5 +15,6 @@ int main() {
 	cout << "happiness" << endl;
 	cout << "safety" << endl;
 	cout << "peace" << endl;
+	cout << "lovely" << endl;
 	return 0;
 }
