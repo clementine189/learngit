@@ -14,5 +14,6 @@ int main() {
 	cout << "hello git ONCE" << endl;
 	cout << "happiness" << endl;
 	cout << "safety" << endl;
+	cout << "peace" << endl;
 	return 0;
 }
